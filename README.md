@@ -1,4 +1,4 @@
-# MRI_Image_Segmentationli
+# Deep Learning for MRI image segmentation with U-Net architecture.
 
 What is image segmentation?
 Other than image classification, where the task of the network is to assign a label or class to an input image, you want to know where an object is located in the image, the shape of that object, which pixel belongs to which object, etc. In this case you will want to segment the image, i.e., each pixel of the image is given a label. Thus, the task of image segmentation is to train a neural network to output a pixel-wise mask of the image. This helps in understanding the image at a much lower level, i.e., the pixel level. Image segmentation has many applications in medical imaging, self-driving cars and satellite imaging to name a few.
