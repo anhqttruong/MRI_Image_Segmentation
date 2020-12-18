@@ -10,3 +10,4 @@ Class 1 : Pixel belonging to the ascending aorta.
 Class 2 : Pixel belonging to the descending aorta.
 
 Class 3 : None of the above/ Surrounding pixel.
+![](Segmentation_Result.png)
