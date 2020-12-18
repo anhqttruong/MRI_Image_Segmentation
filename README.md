@@ -6,5 +6,7 @@ Other than image classification, where the task of the network is to assign a la
 The dataset that will be used for this tutorial is the aortic MRI Images from a hospital in Paris, created at Laboratoire d'Imagerie Biomédical (LIB) of Sorbonne University. The dataset consists of images, their corresponding labels, and pixel-wise masks. The masks are basically labels for each pixel. Each pixel is given one of three categories :
 
 Class 1 : Pixel belonging to the ascending aorta.
+
 Class 2 : Pixel belonging to the descending aorta.
+
 Class 3 : None of the above/ Surrounding pixel.
